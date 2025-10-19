@@ -5,4 +5,4 @@ ss://2022-blake3-aes-256-gcm:1LsyTMQygOYe9ey2qLn6JB%2F3hSwaJLksxISj4q%2FQqWg%3D%
 ss://2022-blake3-aes-256-gcm:9xPYiLFgKbxwTrN5zJFamdBRrfiF2L1ak7PAHZXBFa0%3D%3AJSxZiwiqXGiz5rjTyfLIyd2ln%2BkPhFXan3AzE7DjfOA%3D@94.159.103.159:41192#Germany [H2 Shadowsocks]
 vless://e2f1a96d-fcea-43da-9b48-dbfaf4cc4aef@94.159.103.159:4443?security=reality&sni=chip.de&fp=firefox&pbk=QcpxusMrllUtQPJOFJMcnh-F0kx3ZcPR4GI7R12ZXFk&sid=09&type=grpc&serviceName=grpc-vless&packetEncoding=xudp&encryption=none#Germany [H2 VLESS gRPC]
 vless://20d3359c-be91-4def-ab5d-5860b8d720bf@major.qzz.io:443?security=tls&sni=major.qzz.io&alpn=h2&fp=firefox&type=grpc&serviceName=gun&packetEncoding=xudp&encryption=none#Germany [H2%20VLESS%20gRPC%20CDN]
-vless://35329e6c-c890-4f46-995e-b0e6cc5768c4@major.qzz.io:443?security=tls&sni=major.qzz.io&alpn=h2,http/1.1&fp=firefox&type=ws&path=/3rtbgty23ont&host=major.qzz.io&packetEncoding=xudp&encryption=none#Germany%20[H2%20VLESS%20WS%20CDN]
+vless://35329e6c-c890-4f46-995e-b0e6cc5768c4@major.qzz.io:8443?security=tls&sni=major.qzz.io&alpn=h2&fp=random&type=ws&path=/3rtbgty23ont&host=major.qzz.io&packetEncoding=xudp&encryption=none#Germany%20[H2%20VLESS%20WSS%20CDN]
