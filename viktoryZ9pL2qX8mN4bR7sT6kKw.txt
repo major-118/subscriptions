@@ -17,3 +17,7 @@ vless://358e7053-1626-4f89-98d8-07130fe10444@89.110.82.136:8443?encryption=none&
 vless://358e7053-1626-4f89-98d8-07130fe10444@89.110.82.136:8443?encryption=none&security=tls&sni=major.qzz.io&fp=chrome&type=ws&path=/qnqu5t22&packetEncoding=xudp#NL%20[WS%20TLS]
 
 vless://7d28cfc7-3d90-4606-86f8-c83de0917b94@176.108.252.1:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.invest-helper.ru&fp=chrome&pbk=kRRpOa3OAntrCLawzRu5jgKDtVbWVRVi6KQ62i_9jGo&sid=bc0f&packetEncoding=xudp#MSK%20[Raw TCP Reality Vision]
+
+hysteria2://S&tgrtd7n2g9hrnSL5$8n9P3490cv53npa&@178.17.53.162:3478?security=tls&sni=456720.xyz&alpn#FI%20[Hysteria]
+hysteria2://S&tgreo7n2gbAnSL5o2n9P345cv53npa@94.159.103.159:1935?upmbps=90&downmbps=90&security=tls&sni=221510.xyz&alpn#DE%20[Hysteria]
+hysteria2://Qtg58$pLz&otYBna3681TGfhs85wzxtwKhdnttqv@89.110.82.136:3478?upmbps=140&downmbps=140&security=tls&sni=major.qzz.io&alpn#NL [Hysteria]
